@@ -1,3 +1,4 @@
+---
 layout: page
 title: "Choose Guide"
 permalink: /chooseguide/

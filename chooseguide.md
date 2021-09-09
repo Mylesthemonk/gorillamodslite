@@ -1,3 +1,8 @@
+---
+title: "Choose Guide"
+permalink: /chooseguide/
+---
+
 # Choose Your Platform
 ---
 

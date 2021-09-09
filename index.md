@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Gorilla Tag Modding Guide
+---
+Get up and running with modifications to Gorilla Tag to enhance your experience.  
+Reject humanity, return to monke.
 
-You can use the [editor on GitHub](https://github.com/burritosoftware/gorillamodslite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+?> **Discord Help**
+For live support with this guide please visit us in **#installation-help** on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) and ask, in English, for assistance. Please read our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What can you do with mods?
 
-### Markdown
+You can:
+- Play custom maps with [*Monke Map Loader*](https://monkemaphub.com/)
+- Customize your gorilla with custom materials, infected materials, and hats with [*Gorilla Cosmetics*](https://github.com/legoandmars/GorillaCosmetics)
+- Jump high with [*Space Monke*](https://github.com/legoandmars/SpaceMonke)
+- Change the look of the sky with [*MonkeSkies*](https://github.com/Raemien/MonkeSkies)
+- Dash where you look with [*DashMonke*](https://github.com/TrueTamashii/DashMonke)
+- Enhance the gorilla computer, see your currently loaded mods, change monitor POV, and more with [*Computer Interface*](https://github.com/ToniMacaroni/ComputerInterface)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are *many more mods* to discover, and you'll find them in the **Downloads** category on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv).
 
-```markdown
-Syntax highlighted code block
+### Is modding the game safe?
 
-# Header 1
-## Header 2
-### Header 3
+Modding the game is allowed by the developers of Gorilla Tag, however keep in mind the following:
 
-- Bulleted
-- List
+!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to private lobbies. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
 
-1. Numbered
-2. List
+### End Goal
 
-**Bold** and _Italic_ and `Code` text
+This guide has the end goal of taking a completely unmodified Gorilla Tag installation from vanilla to modded with BepInEx (PC) or QuestLoader (Quest).
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/burritosoftware/gorillamodslite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+>
+> ### Get started by choosing the platform you want to mod!
+>

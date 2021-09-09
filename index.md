@@ -35,4 +35,5 @@ This guide has the end goal of taking a completely unmodified Gorilla Tag instal
 
 >
 > ### Get started by choosing the platform you want to mod!
+> [Click here to choose your guide.](chooseguide)
 >

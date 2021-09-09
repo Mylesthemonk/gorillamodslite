@@ -1,4 +1,4 @@
-# Gorilla Tag Modding Guide
+# Gorilla Tag Modding Guide (Lite)
 ---
 Get up and running with modifications to Gorilla Tag to enhance your experience.  
 Reject humanity, return to monke.

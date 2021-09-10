@@ -3,15 +3,17 @@
 Get up and running with modifications to Gorilla Tag to enhance your experience.  
 Reject humanity, return to monke.
 
+---
 
-# You probably are looking for this guide.
-> This is a lighter version of the guide with not all of the bells and whistles.
+# Want the full guide?
+> This is a lighter version of the guide with only the core guides and no translations.  
+> This helps it run on old/slow devices.
 > [Check out the full version of the guide here!](https://gorillatagmodding.burrito.software)
->
-> (this lighter version of the Gorilla Tag Modding Guide is in place while Google refreshes its index)
+
+---
 
 > **Discord Help**
-For live support with this guide please visit us in **#installation-help** on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) and ask, in English, for assistance. Please read our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
+For live support with this guide please visit us in **#installation-help** on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) and ask, in English, for assistance.
 
 ### What can you do with mods?
 

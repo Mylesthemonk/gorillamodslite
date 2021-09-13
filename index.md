@@ -1,3 +1,7 @@
+---
+title: "Gorilla Tag Modding Guide"
+---
+
 # Gorilla Tag Modding Guide (Lite)
 ---
 Get up and running with modifications to Gorilla Tag to enhance your experience.  
@@ -6,11 +10,26 @@ Reject humanity, return to monke.
 ---
 
 # Want the full guide?
-> This is a lighter version of the guide with only the core guides and no translations.  
+> This is a lighter version of the guide with only the core guides and no translations or pictures.  
 > This helps it run on old/slow devices.
 > [Check out the full version of the guide here!](https://gorillatagmodding.burrito.software)
 
----
+--- 
+
+**Scroll down to continue to the lite guide!**
+  
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
 
 > **Discord Help**
 For live support with this guide please visit us in **#installation-help** on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) and ask, in English, for assistance.
